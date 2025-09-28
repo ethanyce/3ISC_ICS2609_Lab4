@@ -54,14 +54,14 @@ All report endpoints require authentication (Bearer token).
 ## Environment Variables
 
 ```
-DB_HOST=localhost
-DB_USER=root
-DB_PASS=your_password
-DB_NAME=lab_auth
-DB_PORT=3306
-SERVER_PORT=3000
-JWT_SECRET=your_secret_key
-JWT_EXPIRES=1h
+DB_HOST=
+DB_USER=
+DB_PASS=
+DB_NAME=
+DB_PORT=
+SERVER_PORT=
+JWT_SECRET=
+JWT_EXPIRES=
 ```
 
 ## Dependencies
